@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/budgety-by-react__pagiantion/static/css/main.3e759703.chunk.css",
-    "main.js": "/budgety-by-react__pagiantion/static/js/main.7e28b474.chunk.js",
-    "main.js.map": "/budgety-by-react__pagiantion/static/js/main.7e28b474.chunk.js.map",
-    "runtime-main.js": "/budgety-by-react__pagiantion/static/js/runtime-main.8fba8407.js",
-    "runtime-main.js.map": "/budgety-by-react__pagiantion/static/js/runtime-main.8fba8407.js.map",
-    "static/js/2.8e73f81c.chunk.js": "/budgety-by-react__pagiantion/static/js/2.8e73f81c.chunk.js",
-    "static/js/2.8e73f81c.chunk.js.map": "/budgety-by-react__pagiantion/static/js/2.8e73f81c.chunk.js.map",
-    "index.html": "/budgety-by-react__pagiantion/index.html",
-    "precache-manifest.7edc11769ea4296fe6b85df921c61fed.js": "/budgety-by-react__pagiantion/precache-manifest.7edc11769ea4296fe6b85df921c61fed.js",
-    "service-worker.js": "/budgety-by-react__pagiantion/service-worker.js",
-    "static/css/main.3e759703.chunk.css.map": "/budgety-by-react__pagiantion/static/css/main.3e759703.chunk.css.map",
-    "static/js/2.8e73f81c.chunk.js.LICENSE.txt": "/budgety-by-react__pagiantion/static/js/2.8e73f81c.chunk.js.LICENSE.txt"
+    "main.css": "/budgety-by-react__01/static/css/main.3e759703.chunk.css",
+    "main.js": "/budgety-by-react__01/static/js/main.7e28b474.chunk.js",
+    "main.js.map": "/budgety-by-react__01/static/js/main.7e28b474.chunk.js.map",
+    "runtime-main.js": "/budgety-by-react__01/static/js/runtime-main.8b0529dd.js",
+    "runtime-main.js.map": "/budgety-by-react__01/static/js/runtime-main.8b0529dd.js.map",
+    "static/js/2.8e73f81c.chunk.js": "/budgety-by-react__01/static/js/2.8e73f81c.chunk.js",
+    "static/js/2.8e73f81c.chunk.js.map": "/budgety-by-react__01/static/js/2.8e73f81c.chunk.js.map",
+    "index.html": "/budgety-by-react__01/index.html",
+    "precache-manifest.5fcd7d0fca3e980ed530268474fd7560.js": "/budgety-by-react__01/precache-manifest.5fcd7d0fca3e980ed530268474fd7560.js",
+    "service-worker.js": "/budgety-by-react__01/service-worker.js",
+    "static/css/main.3e759703.chunk.css.map": "/budgety-by-react__01/static/css/main.3e759703.chunk.css.map",
+    "static/js/2.8e73f81c.chunk.js.LICENSE.txt": "/budgety-by-react__01/static/js/2.8e73f81c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8fba8407.js",
+    "static/js/runtime-main.8b0529dd.js",
     "static/js/2.8e73f81c.chunk.js",
     "static/css/main.3e759703.chunk.css",
     "static/js/main.7e28b474.chunk.js"
